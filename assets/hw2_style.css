@@ -1,0 +1,155 @@
+body{
+	background-image: url('../img/bgf.jpg');
+	background-size: cover;
+	background-repeat:no-repeat;
+	margin:0px;
+	padding:0px;
+	background-attachment: fixed;　
+}
+.bg2{
+	-webkit-border-radius: 30px; 
+    -moz-border-radius: 30px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: auto;
+    padding-bottom: 1%;
+}
+.logo{
+	width: auto;
+	height: auto;
+	margin-left: 3%;
+	padding-top: 1%;
+	padding-left: 2%;
+}
+.nav{
+	cursor: pointer;
+	display: inline;
+	margin: 0 auto;
+	font-size: 26px;
+	font-family: "SetoFont";
+	line-height: normal;
+	padding-left: 10%;
+}
+.nav a{
+	margin-left: 3%;
+}
+.nav a:hover{
+	text-decoration: underline;	
+}
+.nav a:link{
+	color: black;
+}
+.nav a:visted{
+	color: black;
+	text-decoration: none;
+}
+.bgbasic{
+	margin-top: 0.8%;
+	padding-top: 0.1%;
+	-webkit-border-radius: 30px; 
+    -moz-border-radius: 30px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    margin-left: 10%;
+    margin-right: 31%;
+    height: auto;
+    padding-bottom: 1%;
+}
+h1{
+	font-family: "SetoFont";
+	font-size: 30px;
+	margin-left: 5%;
+}
+.intro{
+	width: auto;
+	height: auto;
+	float: left;
+	margin-left: 5%;
+	margin-right: 3%;
+	padding-bottom: 2%;
+}
+p{
+	font-family: "SetoFont";
+	font-size: 22px;
+	margin-left: 5%;
+}
+.bgexp{
+	margin-top: 0.8%;
+	padding-top: 0.1%;
+	-webkit-border-radius: 30px; 
+    -moz-border-radius: 30px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    margin-left: 10%;
+    margin-right: 10%;
+    height: auto;
+    padding-bottom: 1%;
+}
+ul{
+	font-family: "SetoFont"
+	font-size: 22px;
+}
+h2{
+	margin-left: 5%;
+	font-family: "SetoFont"
+}
+.bgtar{
+	margin-top: 0.8%;
+	padding-top: 0.1%;
+	-webkit-border-radius: 30px; 
+    -moz-border-radius: 30px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    margin-left: 10%;
+    margin-right: 10%;
+    height: auto;
+    padding-bottom: 1%;
+}
+.bglif{
+	margin-top: 0.8%;
+	padding-top: 0.1%;
+	-webkit-border-radius: 30px; 
+    -moz-border-radius: 30px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    margin-left: 10%;
+    margin-right: 10%;
+    height: auto;
+    padding-bottom: 1%;
+}
+.life img{
+	width: auto;
+	height: auto;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 3%;
+}
+aside{
+	width: 20%;
+	float: right;
+	margin-top: 0.8%;
+	padding-top: 0.1%;
+	-webkit-border-radius: 30px; 
+    -moz-border-radius: 30px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    margin-right: 10%;
+    height: auto;
+    padding-bottom: 1%;
+}
+footer{
+	margin-top: 0.5%;
+	padding-top: 0.1%;
+	-webkit-border-radius: 30px; 
+    -moz-border-radius: 30px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    margin-left: 10%;
+    margin-right: 10%;
+    height: auto;
+    padding-bottom: 1%;
+    text-align:center;
+}
